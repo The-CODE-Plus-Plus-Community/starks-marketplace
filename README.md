@@ -104,6 +104,6 @@ The ethers.js library aims to be a complete and compact library for interacting 
 Secure Authentication Without OTP or SAWO is the next thing in authentication, we wish to provide convenience both to developers and the users using the same platform by providing a one-tap authentication service that is secure, swift and sustainable. We have integrated to establish a trust based LOGIN system where users login to go into their accounts and navigate through the assets and trade on their purpose based products.
 
 ## POSTMAN 
-<img src="http://softwareengineeringdaily.com/wp-content/uploads/2020/07/Postman.jpg" align="right" width="50%">
+<img src="http://softwareengineeringdaily.com/wp-content/uploads/2020/07/Postman.jpg" align="right" width="30%">
 The Postman API allows you to programmatically access data stored in Postman account with ease. We used postman to check the SAWO API data for our marketplace.
   
