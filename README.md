@@ -39,6 +39,16 @@ Hardhat is the best choice for Solidity debugging. You get Solidity stack traces
 Change anything you like. Even entire out-of-the-box tasks, or just parts of them. Flexible and customizable design, with little constraints.
 Designed to make integrations easy, Hardhat allows you to keep using your existing tools while enabling deeper interoperability between them.
 
+## IPFS
+<img src="https://c.tenor.com/3HpVR4YO-IwAAAAM/ipfs-inter-planetary-file-system.gif" align="right" width="30%">
+IPFS knows how to find that sweet, sweet aardvark information by its contents, not its location (more on that, which is called content addressing, below). The IPFS-ified version of the aardvark info is represented by that string of numbers in the middle of the URL (QmXo…), and instead of asking one of Wikipedia's computers for the page, your computer uses IPFS to ask lots of computers around the world to share the page with you. It can get your aardvark info from anyone who has it, not just Wikipedia.
+
+And, when you use IPFS, you don't just download files from someone else — your computer also helps distribute them. When your friend a few blocks away needs the same Wikipedia page, they might be as likely to get it from you as they would from your neighbor or anyone else using IPFS.
+
+IPFS makes this possible for not only web pages but also any kind of file a computer might store, whether it's a document, an email, or even a database record.
+
+
+
 ## Deployment
 
 To deploy this project on your local system go step by step on your Windows Terminal in your preferred location
