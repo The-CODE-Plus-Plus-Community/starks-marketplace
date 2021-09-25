@@ -24,7 +24,7 @@ we are creating a safe marketplace for users to make their assets managable non 
 
 ## TECH ELLABORATION
 
-# NEXT.JS
+### NEXT.JS
 <img src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" align="right" width="30%">
 Next.js is the main framework for the **Frontend Development** in this project. The single page application which is made by the help of this framework allows the users to navigate through various sections of the marketplace i.e **HOME**, **Selling Digital Asset**, **My assets** and **Creator-Dashboard**. It provides a beautiful UI to handle their assets and navigate through their choice.
 
