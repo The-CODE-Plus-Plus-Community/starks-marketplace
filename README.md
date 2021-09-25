@@ -28,9 +28,18 @@ we are creating a safe marketplace for users to make their assets managable non 
 <img src="https://raw.githubusercontent.com/andrebonna/serverless-next.js/HEAD/logo.gif" align="right" width="30%">
 Next.js is the main framework for the **Frontend Development** in this project. The single page application which is made by the help of this framework allows the users to navigate through various sections of the marketplace i.e HOME, Selling Digital Asset, My assets and Creator-Dashboard. It provides a beautiful UI to handle their assets and navigate through their choice.
 
-## POLYGON
+### POLYGON
 <img src="https://c.tenor.com/kTRUwJEYLu8AAAAC/polygon-matic.gif" align="right" width="30%">
 Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem. Polygon provides the core components and tools to join the new, borderless economy and society. With polygon, any project can easily spin-up a dedicated blockchain network which combines the best features of stand-alone blockchains (sovereignty, scalability and flexibility) and Ethereum (security, interoperability and developer experience). Additionally, these blockchains are compatible with all the existing Ethereum tools (Metamask, MyCrypto, Remix etc), and can exchange messages among themselves and with Ethereum. Polygon technology is materialized through two major components: Polygon framework and Polygon protocol.
+
+### HARDHAT
+<img src="https://hardhat.org/card.png" align="right" width="30%">
+Easily deploy your contracts, run tests and debug Solidity code without dealing with live environments. Hardhat Network is a local Ethereum network designed for development.<br>
+Hardhat is the best choice for Solidity debugging. You get Solidity stack traces, console.log and explicit error messages when transactions fail.
+<br>
+Change anything you like. Even entire out-of-the-box tasks, or just parts of them. Flexible and customizable design, with little constraints.
+<br>
+Designed to make integrations easy, Hardhat allows you to keep using your existing tools while enabling deeper interoperability between them.
 
 ## Deployment
 
