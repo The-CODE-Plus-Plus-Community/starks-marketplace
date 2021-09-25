@@ -29,7 +29,7 @@ we are creating a safe marketplace for users to make their assets managable non 
 Next.js is the main framework for the **Frontend Development** in this project. The single page application which is made by the help of this framework allows the users to navigate through various sections of the marketplace i.e HOME, Selling Digital Asset, My assets and Creator-Dashboard. It provides a beautiful UI to handle their assets and navigate through their choice.
 
 ## POLYGON
-<img src="https://raw.githubusercontent.com/andrebonna/serverless-next.js/HEAD/logo.gif" align="right" width="30%">
+<img src="https://c.tenor.com/kTRUwJEYLu8AAAAC/polygon-matic.gif" align="right" width="30%">
 
 ## Deployment
 
