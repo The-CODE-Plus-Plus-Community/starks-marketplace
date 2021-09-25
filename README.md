@@ -18,6 +18,8 @@ we are creating a safe marketplace for users to make their assets managable non 
 2. Solidity development environment- **Hardhat**
 3. File Storage- **IPFS**
 4. Ethereum Web Client Library- **Ethers.js**
+5. Authentication- **SAWO-API**
+6. Api-Testing- **POSTMAN**
 
 
 ## Deployment
