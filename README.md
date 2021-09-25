@@ -92,4 +92,12 @@ IPFS knows how to find that sweet, sweet aardvark information by its contents, n
 And, when you use IPFS, you don't just download files from someone else — your computer also helps distribute them. When your friend a few blocks away needs the same Wikipedia page, they might be as likely to get it from you as they would from your neighbor or anyone else using IPFS.
 
 IPFS makes this possible for not only web pages but also any kind of file a computer might store, whether it's a document, an email, or even a database record.
+
+## ETHERS.JS
+<img src="https://repository-images.githubusercontent.com/38885825/89e85900-78de-11ea-8040-98d5a598f2e6" align="right" width="30%">
+The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem. It was originally designed for use with ethers.io and has since expanded into a more general-purpose library.
+
+## SAWO-API
+<img src="https://pbs.twimg.com/profile_images/1335871983188287496/Y_75bKdZ_400x400.jpg" align="right" width="30%">
+Secure Authentication Without OTP or SAWO is the next thing in authentication, we wish to provide convenience both to developers and the users using the same platform by providing a one-tap authentication service that is secure, swift and sustainable. We have integrated to establish a trust based LOGIN system where users login to go into their accounts and navigate through the assets and trade on their purpose based products
   
