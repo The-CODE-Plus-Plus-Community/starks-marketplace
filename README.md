@@ -98,6 +98,6 @@ IPFS makes this possible for not only web pages but also any kind of file a comp
 The ethers.js library aims to be a complete and compact library for interacting with the Ethereum Blockchain and its ecosystem. It was originally designed for use with ethers.io and has since expanded into a more general-purpose library.
 
 ## SAWO-API
-<img src="https://pbs.twimg.com/profile_images/1335871983188287496/Y_75bKdZ_400x400.jpg" align="right" width="30%">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618497249576/p1cg4GcRs.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress" align="right" width="30%">
 Secure Authentication Without OTP or SAWO is the next thing in authentication, we wish to provide convenience both to developers and the users using the same platform by providing a one-tap authentication service that is secure, swift and sustainable. We have integrated to establish a trust based LOGIN system where users login to go into their accounts and navigate through the assets and trade on their purpose based products
   
