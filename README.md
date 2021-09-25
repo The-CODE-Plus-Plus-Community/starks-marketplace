@@ -15,12 +15,18 @@ we are creating a safe marketplace for users to make their assets managable non 
 ## TECH STACK
 
 1. Web application framework- **Next.js**
-2. Solidity development environment- **Hardhat**
-3. File Storage- **IPFS**
-4. Ethereum Web Client Library- **Ethers.js**
-5. Authentication- **SAWO-API**
-6. Api-Testing- **POSTMAN**
+2. Faucet used to access the Faucet Network- **POLYGON**
+3. Solidity development environment- **Hardhat**
+4. File Storage- **IPFS**
+5. Ethereum Web Client Library- **Ethers.js**
+6. Authentication- **SAWO-API**
+7. Api-Testing- **POSTMAN**
 
+## TECH ELLABORATION
+
+# NEXT.JS
+<img src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" align="right" width="30%">
+Next.js is the main framework for the **Frontend Development** in this project. The single page application which is made by the help of this framework allows the users to navigate through various sections of the marketplace i.e **HOME**, **Selling Digital Asset**, **My assets** and **Creator-Dashboard**. It provides a beautiful UI to handle their assets and navigate through their choice.
 
 ## Deployment
 
