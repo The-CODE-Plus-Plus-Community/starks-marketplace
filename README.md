@@ -34,11 +34,9 @@ Polygon is a protocol and a framework for building and connecting Ethereum-compa
 
 ### HARDHAT
 <img src="https://hardhat.org/card.png" align="right" width="30%">
-Easily deploy your contracts, run tests and debug Solidity code without dealing with live environments. Hardhat Network is a local Ethereum network designed for development.<br>
+Easily deploy your contracts, run tests and debug Solidity code without dealing with live environments. Hardhat Network is a local Ethereum network designed for development.
 Hardhat is the best choice for Solidity debugging. You get Solidity stack traces, console.log and explicit error messages when transactions fail.
-<br>
 Change anything you like. Even entire out-of-the-box tasks, or just parts of them. Flexible and customizable design, with little constraints.
-<br>
 Designed to make integrations easy, Hardhat allows you to keep using your existing tools while enabling deeper interoperability between them.
 
 ## Deployment
