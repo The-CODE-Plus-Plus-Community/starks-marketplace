@@ -1,5 +1,5 @@
 
-## INTRODUCTION
+# INTRODUCTION
 Many years have passed in apprehensions and concerns regarding the promising use cases for driving mainstream blockchain adoption. The year 2021 might spell a new chapter for the applications of blockchain technology with the rising popularity of NFTs. The sale of an NFT art collection by digital artist Beeple for $69 million set a completely new benchmark for NFTs.
 
 ![](https://miro.medium.com/max/1400/0*EBXqB5wJTWFeaT04.gif)
@@ -26,7 +26,10 @@ we are creating a safe marketplace for users to make their assets managable non 
 
 ### NEXT.JS
 <img src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" align="right" width="30%">
-Next.js is the main framework for the **Frontend Development** in this project. The single page application which is made by the help of this framework allows the users to navigate through various sections of the marketplace i.e __HOME__ , __Selling Digital Asset__ , __My assets*__ and __Creator-Dashboard__ . It provides a beautiful UI to handle their assets and navigate through their choice.
+Next.js is the main framework for the **Frontend Development** in this project. The single page application which is made by the help of this framework allows the users to navigate through various sections of the marketplace i.e HOME, Selling Digital Asset, My assets and Creator-Dashboard. It provides a beautiful UI to handle their assets and navigate through their choice.
+
+## POLYGON
+<img src="https://raw.githubusercontent.com/andrebonna/serverless-next.js/HEAD/logo.gif" align="right" width="30%">
 
 ## Deployment
 
