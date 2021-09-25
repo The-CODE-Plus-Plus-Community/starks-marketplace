@@ -30,6 +30,7 @@ Next.js is the main framework for the **Frontend Development** in this project. 
 
 ## POLYGON
 <img src="https://c.tenor.com/kTRUwJEYLu8AAAAC/polygon-matic.gif" align="right" width="30%">
+Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem. Polygon provides the core components and tools to join the new, borderless economy and society. With polygon, any project can easily spin-up a dedicated blockchain network which combines the best features of stand-alone blockchains (sovereignty, scalability and flexibility) and Ethereum (security, interoperability and developer experience). Additionally, these blockchains are compatible with all the existing Ethereum tools (Metamask, MyCrypto, Remix etc), and can exchange messages among themselves and with Ethereum. Polygon technology is materialized through two major components: Polygon framework and Polygon protocol.
 
 ## Deployment
 
