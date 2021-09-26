@@ -1,24 +1,31 @@
-# IMPORTANT
-FIRST DEPLOY THIS PROJECT ON localhost:3000 following the way mentioned in the DEPLOYMENT and then open the SAWO Link provied in the submission
+<h1 align="center">🦊 Starks Market-Place</h1>
 
-# INTRODUCTION
+## 🍀 INTRODUCTION
 Many years have passed in apprehensions and concerns regarding the promising use cases for driving mainstream blockchain adoption. The year 2021 might spell a new chapter for the applications of blockchain technology with the rising popularity of NFTs. The sale of an NFT art collection by digital artist Beeple for $69 million set a completely new benchmark for NFTs.
 
 ![](https://miro.medium.com/max/1400/0*EBXqB5wJTWFeaT04.gif)
-## NFT(Non-Fungible Token)
+
+## 🚨 Important
+FIRST DEPLOY THIS PROJECT ON localhost:3000 following the way mentioned in the DEPLOYMENT and then open the SAWO Link provied in the submission
+
+## ⚡ NFT(Non-Fungible Token)
 “Non-fungible” more or less means that it’s unique and can’t be replaced with something else. For example, a bitcoin is fungible — trade one for another bitcoin, and you’ll have exactly the same thing. A one-of-a-kind trading card, however, is non-fungible. If you traded it for a different card, you’d have something completely different.
 
-## SPARKS MARKETPLACE
+## 💰 Starks Market-Place
 
 This project has been made by taking into consideration the use NFT in general market place to produce 
 a safer and reliable chain of trusted users. One thing that has become apparent over the past few months is how quickly Ethereum scaling solutions like **Polygon**, **Arbitrum**, and **Optimism** are gaining momentum and adoption. These technologies enable developers to build the same applications they would directly on Ethereum with the added benefits of lower gas costs and faster transaction speeds among other things. Because of the value proposition that these solutions offer 
 we are creating a safe marketplace for users to make their assets managable non tangible.
-## VIDEO DEMO
-[![STARKS MARKETPLACE](https://cdn.dribbble.com/users/1514097/screenshots/3475801/marketplace.gif)](https://www.youtube.com/watch?v=cWRXlIaFItE&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=1)
-[![SAWO API](https://i.pinimg.com/originals/d5/0e/d7/d50ed7120ab3a8ab1c3203a609161a4f.gif)](https://www.youtube.com/watch?v=iMSGThCmTXg&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=2)
-[![POSTMAN](https://assets.getpostman.com/common-share/postman-galaxy-social-preview.gif)](https://www.youtube.com/watch?v=T27uRfFidVM&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=3)
 
-## Deployment
+## 📽 Video Demo
+
+[<img src="https://cdn.dribbble.com/users/1514097/screenshots/3475801/marketplace.gif" width="47%">](https://www.youtube.com/watch?v=cWRXlIaFItE&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=1)
+[<img src="https://i.pinimg.com/originals/d5/0e/d7/d50ed7120ab3a8ab1c3203a609161a4f.gif" width="47%">](https://www.youtube.com/watch?v=iMSGThCmTXg&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=2)
+[<img src="https://assets.getpostman.com/common-share/postman-galaxy-social-preview.gif" width="94%">](https://www.youtube.com/watch?v=T27uRfFidVM&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=3)
+
+
+
+## 🍁 Deployment
 FIRST DEPLOY IT ON localhost:3000 and then open the SAWO Link provied in the submission
 To deploy this project on your local system go step by step on your Windows Terminal in your preferred location
 
@@ -64,7 +71,7 @@ To start the app, run the following command in your CLI:
 ```bash
   npm run dev 
 ```
-## TECH STACK
+## 👨‍💻 Tech Stack
 
 1. Web application framework- **Next.js**
 2. Faucet used to access the Faucet Network- **POLYGON**
@@ -74,7 +81,7 @@ To start the app, run the following command in your CLI:
 6. Authentication- **SAWO-API**
 7. Api-Testing- **POSTMAN**
 
-## TECH ELLABORATION
+## 💻 Tech Ellaboration
 
 ### NEXT.JS
 <img src="https://raw.githubusercontent.com/andrebonna/serverless-next.js/HEAD/logo.gif" align="right" width="30%">
