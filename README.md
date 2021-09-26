@@ -1,3 +1,5 @@
+# IMPORTANT
+FIRST DEPLOY THIS PROJECT ON localhost:3000 following the way mentioned in the DEPLOYMENT and then open the SAWO Link provied in the submission
 
 # INTRODUCTION
 Many years have passed in apprehensions and concerns regarding the promising use cases for driving mainstream blockchain adoption. The year 2021 might spell a new chapter for the applications of blockchain technology with the rising popularity of NFTs. The sale of an NFT art collection by digital artist Beeple for $69 million set a completely new benchmark for NFTs.
@@ -17,7 +19,7 @@ we are creating a safe marketplace for users to make their assets managable non 
 [![POSTMAN](https://assets.getpostman.com/common-share/postman-galaxy-social-preview.gif)](https://www.youtube.com/watch?v=T27uRfFidVM&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=3)
 
 ## Deployment
-
+FIRST DEPLOY IT ON localhost:3000 and then open the SAWO Link provied in the submission
 To deploy this project on your local system go step by step on your Windows Terminal in your preferred location
 
 ```bash
