@@ -12,7 +12,9 @@ This project has been made by taking into consideration the use NFT in general m
 a safer and reliable chain of trusted users. One thing that has become apparent over the past few months is how quickly Ethereum scaling solutions like **Polygon**, **Arbitrum**, and **Optimism** are gaining momentum and adoption. These technologies enable developers to build the same applications they would directly on Ethereum with the added benefits of lower gas costs and faster transaction speeds among other things. Because of the value proposition that these solutions offer 
 we are creating a safe marketplace for users to make their assets managable non tangible.
 ## VIDEO DEMO
-[![STARKS MARKETPLACE](https://www.youtube.com/watch?v=cWRXlIaFItE&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=1)]
+[![STARKS MARKETPLACE](https://cdn.dribbble.com/users/1514097/screenshots/3475801/marketplace.gif)](https://www.youtube.com/watch?v=cWRXlIaFItE&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=1)
+[![SAWO API](https://i.pinimg.com/originals/d5/0e/d7/d50ed7120ab3a8ab1c3203a609161a4f.gif)](https://www.youtube.com/watch?v=iMSGThCmTXg&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=2)
+[![SAWO API](https://i.pinimg.com/originals/b6/e4/69/b6e4691585cedceb3d2c956d87e5bb01.gif)](https://www.youtube.com/watch?v=T27uRfFidVM&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=3)
 
 ## Deployment
 
