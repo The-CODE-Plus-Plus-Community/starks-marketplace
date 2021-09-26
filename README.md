@@ -14,7 +14,7 @@ we are creating a safe marketplace for users to make their assets managable non 
 ## VIDEO DEMO
 [![STARKS MARKETPLACE](https://cdn.dribbble.com/users/1514097/screenshots/3475801/marketplace.gif)](https://www.youtube.com/watch?v=cWRXlIaFItE&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=1)
 [![SAWO API](https://i.pinimg.com/originals/d5/0e/d7/d50ed7120ab3a8ab1c3203a609161a4f.gif)](https://www.youtube.com/watch?v=iMSGThCmTXg&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=2)
-[![POSTMAN](https://cdn.dribbble.com/users/1099127/screenshots/4739408/postman_instagram_post2.gif)](https://www.youtube.com/watch?v=T27uRfFidVM&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=3)
+[![POSTMAN](https://assets.getpostman.com/common-share/postman-galaxy-social-preview.gif)](https://www.youtube.com/watch?v=T27uRfFidVM&list=PLhEWuxMKuFdlwqlkfAROfbW3sYT68zG79&index=3)
 
 ## Deployment
 
