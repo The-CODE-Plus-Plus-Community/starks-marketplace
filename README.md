@@ -111,5 +111,5 @@ Secure Authentication Without OTP or SAWO is the next thing in authentication, w
 
 ## POSTMAN 
 <img src="http://softwareengineeringdaily.com/wp-content/uploads/2020/07/Postman.jpg" align="right" width="30%">
-The Postman API allows you to programmatically access data stored in Postman account with ease. We used postman to check the SAWO API data for our marketplace.
+The Postman API allows you to programmatically access data stored in Postman account with ease. We used postman to check the SAWO API data for our marketplace. We have checked the Sawo-API through POSTMAN.
   
